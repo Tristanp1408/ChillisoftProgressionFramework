@@ -13,3 +13,18 @@ D:\Progression Framework\ChillisoftProgressionFramework\Level-0\Interfaces\Inter
 D:\Progression Framework\ChillisoftProgressionFramework\Level-0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.pdb
 D:\Progression Framework\ChillisoftProgressionFramework\Level-0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
 D:\Progression Framework\ChillisoftProgressionFramework\Level-0\Interfaces\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.exe
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.runtimeconfig.json
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.sourcelink.json
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\Interfaces.genruntimeconfig.cache
+C:\Users\Tristan\Desktop\ChillisoftProgressionFramework\Level - 0\Interfaces\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll
