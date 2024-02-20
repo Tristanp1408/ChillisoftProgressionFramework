@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\Interfaces\\Interfaces\\Interfaces.csproj": {}
+    "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Interfaces\\Interfaces\\Interfaces.csproj": {}
   },
   "projects": {
-    "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\Interfaces\\Interfaces\\Interfaces.csproj": {
+    "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Interfaces\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\Interfaces\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Interfaces\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\Interfaces\\Interfaces\\Interfaces.csproj",
+        "projectPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Interfaces\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\Tristan\\.nuget\\packages\\",
-        "outputPath": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\Interfaces\\Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Interfaces\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tristan\\AppData\\Roaming\\NuGet\\NuGet.Config",
