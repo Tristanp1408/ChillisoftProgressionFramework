@@ -125,5 +125,29 @@ namespace StringCalculatorKataTests
             // Assert
             result.Should().Be(expected);
         }
+
+        [Test]
+        public void GivenNegativeNumber_ShouldReturnError()
+        {
+            // Arrange
+            var input = "-1";
+            var expectedErrorMessage = "negatives not allowed" + input;
+            var sut = new StringCalculator();
+
+            // Act & Assert
+            Assert.Throws<InvalidOperationException>(() => sut.Add(input), expectedErrorMessage);
+        }
+
+        [Test]
+        public void GivenNegativeNumbers_ShouldReturnError()
+        {
+            // Arrange
+            var input = "-1";
+            var expectedErrorMessage = "negatives not allowed" + input;
+            var sut = new StringCalculator();
+
+            // Act & Assert
+            Assert.Throws<InvalidOperationException>(() => sut.Add(input), expectedErrorMessage);
+        }
     }
 }

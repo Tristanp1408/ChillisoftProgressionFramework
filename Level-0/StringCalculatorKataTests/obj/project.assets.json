@@ -896,11 +896,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKataTests\\StringCalculatorKataTests.csproj",
+      "projectUniqueName": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKataTests\\StringCalculatorKataTests.csproj",
       "projectName": "StringCalculatorKataTests",
-      "projectPath": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKataTests\\StringCalculatorKataTests.csproj",
+      "projectPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKataTests\\StringCalculatorKataTests.csproj",
       "packagesPath": "C:\\Users\\Tristan\\.nuget\\packages\\",
-      "outputPath": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKataTests\\obj\\",
+      "outputPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKataTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tristan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -917,8 +917,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\StringCalculatorKata.csproj": {
-              "projectPath": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\StringCalculatorKata.csproj"
+            "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\StringCalculatorKata.csproj": {
+              "projectPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\StringCalculatorKata.csproj"
             }
           }
         }

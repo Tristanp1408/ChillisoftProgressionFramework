@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\StringCalculatorKata.csproj",
+      "projectUniqueName": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\StringCalculatorKata.csproj",
       "projectName": "StringCalculatorKata",
-      "projectPath": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\StringCalculatorKata.csproj",
+      "projectPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\StringCalculatorKata.csproj",
       "packagesPath": "C:\\Users\\Tristan\\.nuget\\packages\\",
-      "outputPath": "D:\\Progression Framework\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\obj\\",
+      "outputPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level-0\\StringCalculatorKata\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tristan\\AppData\\Roaming\\NuGet\\NuGet.Config",

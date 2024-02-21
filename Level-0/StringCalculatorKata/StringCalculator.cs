@@ -4,35 +4,43 @@
     {
         public int Add(string input)
         {
+            var negativeList = new List<int>();
+
             if (string.IsNullOrEmpty(input))
                 return 0;
 
-            if (input == "//;\n1;2")
+         
+            var splitNumbers = ExtractOnlyNumbers(input).Split(Delimiter(input), StringSplitOptions.RemoveEmptyEntries);
+            var parsedNumbers = splitNumbers.Select(int.Parse);
+            var negatives = parsedNumbers.Where(x => x < 0);
+            var positives = parsedNumbers.Where(x => x > 0);
+
+            negativeList.AddRange(negatives);
+
+            if (negativeList.Count > 0)
             {
-                return 3;
-            }  
-            
-            if (input == "//;\n1;2;3")
-            {
-                return 6;
+                throw new InvalidOperationException($"negatives not allowed: {string.Join(" ", negativeList)}");
             }
 
-            var splitNumbers = input.Split(',', '\n');
-            var parsedNumbers = splitNumbers.Select(int.Parse);
-
-            return parsedNumbers.Sum();
+            return positives.Sum();
         }
 
-        private string[] Delimiter(string input)
+        private string[] Delimiter(string numbers)
         {
             var list = new List<string> { ",", "\n" };
-            if (input.StartsWith("//"))
+            if (numbers.StartsWith("//"))
             {
-                var delimiter = input.Substring(2, input.IndexOf('\n'));
-                list.AddRange(delimiter.Split('[', ']'));
+                var delimiter = numbers.Substring(2, (numbers.IndexOf('\n') - 2));
+                list.Add(delimiter);
             }
 
             return list.ToArray();
+        }
+
+        private string ExtractOnlyNumbers(string numbers)
+        {
+            if (numbers.StartsWith("//")) return numbers.Substring(numbers.IndexOf('\n') + 1);
+            return numbers;
         }
     }
 }
