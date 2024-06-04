@@ -1,0 +1,36 @@
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\bin\Debug\net6.0\PDFfile.exe
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\bin\Debug\net6.0\PDFfile.deps.json
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\bin\Debug\net6.0\PDFfile.runtimeconfig.json
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\bin\Debug\net6.0\PDFfile.dll
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\bin\Debug\net6.0\PDFfile.pdb
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\bin\Debug\net6.0\itextsharp.dll
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\PDFfile.csproj.AssemblyReference.cache
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\PDFfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\PDFfile.AssemblyInfoInputs.cache
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\PDFfile.AssemblyInfo.cs
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\PDFfile.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\PDFfile.csproj.CopyComplete
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\PDFfile.dll
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\refint\PDFfile.dll
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\PDFfile.pdb
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\PDFfile.genruntimeconfig.cache
+C:\Users\Tristan\Desktop\PDF Creation\PDFfile\obj\Debug\net6.0\ref\PDFfile.dll
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\bin\Debug\net6.0\PDFfile.exe
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\bin\Debug\net6.0\PDFfile.deps.json
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\bin\Debug\net6.0\PDFfile.runtimeconfig.json
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\bin\Debug\net6.0\PDFfile.dll
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\bin\Debug\net6.0\PDFfile.pdb
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\bin\Debug\net6.0\itextsharp.dll
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\PDFfile.csproj.AssemblyReference.cache
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\PDFfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\PDFfile.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\PDFfile.AssemblyInfo.cs
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\PDFfile.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\PDFfile.csproj.CopyComplete
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\PDFfile.dll
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\refint\PDFfile.dll
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\PDFfile.pdb
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\PDFfile.genruntimeconfig.cache
+C:\Users\Tristan\Documents\Projects\PDF Creation ITextSharp\PDFfile\obj\Debug\net6.0\ref\PDFfile.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "liWHk3VRBrlKP0HxAZco/4hhWTw+xxzHuh+fFDN4ARbk55gIwIBdMO/IEYm14Mi0HM08Y0N7i1AQWZ4M1toveQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tristan\\Documents\\Projects\\CommandLineParser\\TextFileToCommandLine\\TextFileToCommandLine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tristan\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

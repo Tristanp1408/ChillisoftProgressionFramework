@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Fsoy9uw8/zubhGfGORf57bMCBdJjIVVhaDGZO65BE5ln2whn2tYIlNl1NtC1qctX1Qrk82S01Lt6roVLrmFOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tristan\\Documents\\Projects\\PublicHolidays\\PublicHolidays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tristan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

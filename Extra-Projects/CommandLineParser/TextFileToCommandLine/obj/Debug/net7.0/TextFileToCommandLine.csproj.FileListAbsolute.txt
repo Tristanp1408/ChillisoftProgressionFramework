@@ -1,0 +1,17 @@
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\bin\Debug\net7.0\TextFileToCommandLine.exe
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\bin\Debug\net7.0\TextFileToCommandLine.deps.json
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\bin\Debug\net7.0\TextFileToCommandLine.runtimeconfig.json
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\bin\Debug\net7.0\TextFileToCommandLine.dll
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\bin\Debug\net7.0\TextFileToCommandLine.pdb
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\bin\Debug\net7.0\CommandLine.dll
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\TextFileToCommandLine.csproj.AssemblyReference.cache
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\TextFileToCommandLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\TextFileToCommandLine.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\TextFileToCommandLine.AssemblyInfo.cs
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\TextFileToCommandLine.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\TextFileToCommandLine.csproj.CopyComplete
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\TextFileToCommandLine.dll
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\refint\TextFileToCommandLine.dll
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\TextFileToCommandLine.pdb
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\TextFileToCommandLine.genruntimeconfig.cache
+C:\Users\Tristan\Documents\Projects\CommandLineParser\TextFileToCommandLine\obj\Debug\net7.0\ref\TextFileToCommandLine.dll

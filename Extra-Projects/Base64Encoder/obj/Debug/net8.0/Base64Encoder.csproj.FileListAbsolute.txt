@@ -1,0 +1,14 @@
+C:\Users\Tristan\Documents\Projects\Base64Encoder\bin\Debug\net8.0\Base64Encoder.exe
+C:\Users\Tristan\Documents\Projects\Base64Encoder\bin\Debug\net8.0\Base64Encoder.deps.json
+C:\Users\Tristan\Documents\Projects\Base64Encoder\bin\Debug\net8.0\Base64Encoder.runtimeconfig.json
+C:\Users\Tristan\Documents\Projects\Base64Encoder\bin\Debug\net8.0\Base64Encoder.dll
+C:\Users\Tristan\Documents\Projects\Base64Encoder\bin\Debug\net8.0\Base64Encoder.pdb
+C:\Users\Tristan\Documents\Projects\Base64Encoder\obj\Debug\net8.0\Base64Encoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\Documents\Projects\Base64Encoder\obj\Debug\net8.0\Base64Encoder.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\Projects\Base64Encoder\obj\Debug\net8.0\Base64Encoder.AssemblyInfo.cs
+C:\Users\Tristan\Documents\Projects\Base64Encoder\obj\Debug\net8.0\Base64Encoder.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Documents\Projects\Base64Encoder\obj\Debug\net8.0\Base64Encoder.dll
+C:\Users\Tristan\Documents\Projects\Base64Encoder\obj\Debug\net8.0\refint\Base64Encoder.dll
+C:\Users\Tristan\Documents\Projects\Base64Encoder\obj\Debug\net8.0\Base64Encoder.pdb
+C:\Users\Tristan\Documents\Projects\Base64Encoder\obj\Debug\net8.0\Base64Encoder.genruntimeconfig.cache
+C:\Users\Tristan\Documents\Projects\Base64Encoder\obj\Debug\net8.0\ref\Base64Encoder.dll

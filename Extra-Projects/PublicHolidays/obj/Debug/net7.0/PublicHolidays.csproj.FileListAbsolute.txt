@@ -1,0 +1,17 @@
+C:\Users\Tristan\Documents\Projects\PublicHolidays\bin\Debug\net7.0\PublicHolidays.exe
+C:\Users\Tristan\Documents\Projects\PublicHolidays\bin\Debug\net7.0\PublicHolidays.deps.json
+C:\Users\Tristan\Documents\Projects\PublicHolidays\bin\Debug\net7.0\PublicHolidays.runtimeconfig.json
+C:\Users\Tristan\Documents\Projects\PublicHolidays\bin\Debug\net7.0\PublicHolidays.dll
+C:\Users\Tristan\Documents\Projects\PublicHolidays\bin\Debug\net7.0\PublicHolidays.pdb
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\PublicHolidays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\PublicHolidays.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\PublicHolidays.AssemblyInfo.cs
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\PublicHolidays.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\PublicHolidays.dll
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\refint\PublicHolidays.dll
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\PublicHolidays.pdb
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\PublicHolidays.genruntimeconfig.cache
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\ref\PublicHolidays.dll
+C:\Users\Tristan\Documents\Projects\PublicHolidays\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\PublicHolidays.csproj.AssemblyReference.cache
+C:\Users\Tristan\Documents\Projects\PublicHolidays\obj\Debug\net7.0\PublicHolidays.csproj.CopyComplete

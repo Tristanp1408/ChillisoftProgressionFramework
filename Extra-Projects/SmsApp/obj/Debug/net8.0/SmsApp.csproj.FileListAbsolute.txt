@@ -1,0 +1,14 @@
+C:\Users\Tristan\Documents\Projects\SmsApp\bin\Debug\net8.0\SmsApp.exe
+C:\Users\Tristan\Documents\Projects\SmsApp\bin\Debug\net8.0\SmsApp.deps.json
+C:\Users\Tristan\Documents\Projects\SmsApp\bin\Debug\net8.0\SmsApp.runtimeconfig.json
+C:\Users\Tristan\Documents\Projects\SmsApp\bin\Debug\net8.0\SmsApp.dll
+C:\Users\Tristan\Documents\Projects\SmsApp\bin\Debug\net8.0\SmsApp.pdb
+C:\Users\Tristan\Documents\Projects\SmsApp\obj\Debug\net8.0\SmsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\Documents\Projects\SmsApp\obj\Debug\net8.0\SmsApp.AssemblyInfoInputs.cache
+C:\Users\Tristan\Documents\Projects\SmsApp\obj\Debug\net8.0\SmsApp.AssemblyInfo.cs
+C:\Users\Tristan\Documents\Projects\SmsApp\obj\Debug\net8.0\SmsApp.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\Documents\Projects\SmsApp\obj\Debug\net8.0\SmsApp.dll
+C:\Users\Tristan\Documents\Projects\SmsApp\obj\Debug\net8.0\refint\SmsApp.dll
+C:\Users\Tristan\Documents\Projects\SmsApp\obj\Debug\net8.0\SmsApp.pdb
+C:\Users\Tristan\Documents\Projects\SmsApp\obj\Debug\net8.0\SmsApp.genruntimeconfig.cache
+C:\Users\Tristan\Documents\Projects\SmsApp\obj\Debug\net8.0\ref\SmsApp.dll
