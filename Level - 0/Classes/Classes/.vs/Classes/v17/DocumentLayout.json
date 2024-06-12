@@ -3,22 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D7065FC1-F7D7-4C23-B37B-D000D313A6F2}|..\\TestClasses\\TestClasses.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\testclasses\\testcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\classes\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7065FC1-F7D7-4C23-B37B-D000D313A6F2}|..\\TestClasses\\TestClasses.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\testclasses\\testorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7065FC1-F7D7-4C23-B37B-D000D313A6F2}|..\\TestClasses\\TestClasses.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\testclasses\\testperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\classes\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|solutionrelative:orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E80D7C32-4CC4-4AE6-B8C0-8F0C9C5CB9C3}|Classes.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7065FC1-F7D7-4C23-B37B-D000D313A6F2}|..\\TestClasses\\TestClasses.csproj|c:\\users\\tristan\\desktop\\chillisoftprogressionframework\\level - 0\\classes\\testclasses\\testcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +39,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 219,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,65 +51,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TestCar.cs",
-              "DocumentMoniker": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\TestClasses\\TestCar.cs",
-              "RelativeDocumentMoniker": "..\\TestClasses\\TestCar.cs",
-              "ToolTip": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\TestClasses\\TestCar.cs",
-              "RelativeToolTip": "..\\TestClasses\\TestCar.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCkAAAAyAAAA",
+              "DocumentIndex": 2,
+              "Title": "TestOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\TestClasses\\TestOrder.cs",
+              "RelativeDocumentMoniker": "..\\TestClasses\\TestOrder.cs",
+              "ToolTip": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\TestClasses\\TestOrder.cs",
+              "RelativeToolTip": "..\\TestClasses\\TestOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T07:46:30.497Z",
+              "WhenOpened": "2024-06-12T13:52:52.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TestPerson.cs",
               "DocumentMoniker": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\TestClasses\\TestPerson.cs",
               "RelativeDocumentMoniker": "..\\TestClasses\\TestPerson.cs",
               "ToolTip": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\TestClasses\\TestPerson.cs",
               "RelativeToolTip": "..\\TestClasses\\TestPerson.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowC4AAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowC8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T07:30:41.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:44:22.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderItem.cs",
+              "ToolTip": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\OrderItem.cs",
+              "RelativeToolTip": "OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:44:00.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestCar.cs",
+              "DocumentMoniker": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\TestClasses\\TestCar.cs",
+              "RelativeDocumentMoniker": "..\\TestClasses\\TestCar.cs",
+              "ToolTip": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\TestClasses\\TestCar.cs",
+              "RelativeToolTip": "..\\TestClasses\\TestCar.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:46:30.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAADwvxEAAAA9AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvxYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T13:51:00.572Z"
+              "WhenOpened": "2024-06-07T13:51:00.572Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T13:37:07.434Z"
+              "WhenOpened": "2024-06-07T13:37:07.434Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Car.cs",
               "RelativeDocumentMoniker": "Car.cs",
               "ToolTip": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Car.cs",
               "RelativeToolTip": "Car.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBQAAAAeAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwBEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T12:16:36.122Z"
+              "WhenOpened": "2024-02-20T12:16:36.122Z",
+              "EditorCaption": ""
             }
           ]
         }

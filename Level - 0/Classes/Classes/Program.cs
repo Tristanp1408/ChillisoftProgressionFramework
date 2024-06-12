@@ -7,6 +7,8 @@
             UsingTheFactoryMethodOnCarDetails();
 
             UsingTheDtoMethodToSerializeAndDeserializeThePersonObject();
+
+            UsingTheOrderObject();
         }
 
         private static void UsingTheDtoMethodToSerializeAndDeserializeThePersonObject()
@@ -37,6 +39,21 @@
 
             // Using the Display method on CarDetails to show the object properties
             carDetails.DisplayInfo();
+        }
+
+        private static void UsingTheOrderObject()
+        {
+            // Create an Order object
+            var order = new Order("12345");
+
+            // Add items to the order
+            order.AddItem("Laptop", 1500)
+                .AddItem("Mouse", 50)
+                .AddItem("Keyboard", 100);
+
+            // Display order details
+            Console.WriteLine("\nOrder Details:");
+            order.DisplayInfo();
         }
     }
 }
