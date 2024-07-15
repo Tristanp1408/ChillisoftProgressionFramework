@@ -1,19 +1,32 @@
-﻿namespace Interfaces
+﻿using Interfaces.Interfaces;
+using Interfaces.Vehicle;
+
+namespace Interfaces
 {
-    public class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
-            var circle = new Circle(5);
-            var rectangle = new Rectangle(4, 6);
+            var car = new Car("Toyota", "Yaris");
+            var truck = new Truck("MAN", "TGS");
 
-            var calculator = new ShapeCalculator();
+            // Use polymorphism to call the Drive method on both instances
+            car.VehicleDetails();
+            truck.VehicleDetails();
 
-            var circleArea = calculator.CalculateArea(circle);
-            var rectangleArea = calculator.CalculateArea(rectangle);
+            // Demonstrate polymorphism by storing different vehicle types in an array
+            var vehicles = new List<IVehicle>
+            {
+                new Car("Honda", "Civic"),
+                new Truck("Chevy", "Silverado"),
+                new Car("Mazda", "3")
+            };
 
-            Console.WriteLine("Area of Circle: " + circleArea);
-            Console.WriteLine("Area of Rectangle: " + rectangleArea);
+            // Iterate through the array and call the Drive method on each vehicle
+            foreach (var vehicle in vehicles)
+            {
+                vehicle.VehicleDetails();
+            }
         }
     }
 }
