@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tristan\\.nuget\\packages\\": {}
+    "C:\\Users\\trist\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Classes.csproj",
+      "projectUniqueName": "C:\\Users\\trist\\OneDrive\\Documents\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Classes.csproj",
       "projectName": "Classes",
-      "projectPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Classes.csproj",
-      "packagesPath": "C:\\Users\\Tristan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tristan\\Desktop\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\obj\\",
+      "projectPath": "C:\\Users\\trist\\OneDrive\\Documents\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\Classes.csproj",
+      "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\trist\\OneDrive\\Documents\\ChillisoftProgressionFramework\\Level - 0\\Classes\\Classes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tristan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
