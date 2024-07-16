@@ -1,7 +1,7 @@
 ﻿namespace Interfaces.Vehicle;
 
 // Truck class inherits from Vehicle and can override the Drive method
-public class Truck: Vehicle
+public class Truck : Vehicle
 {
     public Truck(string make, string model) : base(make, model)
     {
