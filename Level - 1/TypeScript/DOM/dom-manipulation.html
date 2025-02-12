@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DOM Project</title>
+    <link rel="stylesheet" href="dom-manipulation.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Enter Your Name</h1>
+      <form id="nameForm">
+        <input
+          type="text"
+          id="nameInput"
+          placeholder="Enter your name"
+          required
+        />
+        <label for="imageSelect">Choose an image:</label>
+        <select id="imageSelect">
+          <option value="" selected disabled>Select an option</option>
+          <option value="nature">Nature</option>
+          <option value="city">City</option>
+          <option value="desert">Desert</option>
+        </select>
+        <button type="submit" id="submitBtn">Submit</button>
+      </form>
+      <div id="greeting"></div>
+
+      <div id="imageContainer">
+        <img id="displayedImage" src="" alt="Selected Image" />
+      </div>
+
+      <input type="range" id="sizeSlider" min="50" max="300" value="150" />
+      <button id="resetBtn">Reset</button>
+    </div>
+
+    <script src="dom-manipulation.js"></script>
+  </body>
+</html>
