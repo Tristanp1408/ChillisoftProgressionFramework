@@ -24,11 +24,21 @@ internal class Program
         Console.Write("Enter password: ");
         var password = Console.ReadLine();
 
+
         Console.Write("Do you want to (L)ock or (U)nlock the folder? ");
         var choice = Console.ReadLine()?.ToUpper();
 
         if (choice == "L")
         {
+            Console.Write("Confirm Password: ");
+            var confirmedPassword = Console.ReadLine();
+
+            if (!string.Equals(password, confirmedPassword))
+            {
+                Console.WriteLine("Passwords do not match.");
+                return;
+            }
+
             LockFolder(folderPath, password);
             Console.WriteLine($"Folder Locked: {folderPath}");
         }
