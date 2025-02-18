@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TypeScript Closures Demo</title>
+    <link rel="stylesheet" href="closures.css" />
+    <script src="closures.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Closure Counter</h1>
+      <p>
+        <strong>What are Closures?</strong>
+        In TypeScript, a closure is a function that remembers the variables from
+        its parent scope even after the parent function has finished executing.
+      </p>
+      <p>
+        Below is an example of a counter implemented using a closure. Each
+        button press modifies the counter, but the counter state remains
+        encapsulated inside the function.
+      </p>
+      <div class="counter-display">
+        <span id="counter-value">0</span>
+      </div>
+      <div class="buttons">
+        <button id="increment-btn">Increment</button>
+        <button id="decrement-btn">Decrement</button>
+        <button id="reset-btn">Reset</button>
+      </div>
+      <p class="note">
+        Notice how the counter is updated, but its value is never directly
+        exposed. This is an example of data hiding and encapsulation using
+        closures.
+      </p>
+    </div>
+  </body>
+</html>
