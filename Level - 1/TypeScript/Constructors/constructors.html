@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Constructor Demo</title>
+    <link rel="stylesheet" href="constructors.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>🚗 Constructor Demo in TypeScript</h1>
+
+      <p class="description">
+        <strong>What is a constructor?</strong><br />
+        A constructor is a special method in a class that is called
+        automatically when a new object of the class is created. It is used to
+        initialize the object's properties.
+      </p>
+
+      <h2>Create a New Car</h2>
+      <form id="carForm">
+        <input
+          type="text"
+          id="carBrand"
+          placeholder="Enter Car Brand"
+          required
+        />
+        <input
+          type="text"
+          id="carModel"
+          placeholder="Enter Car Model"
+          required
+        />
+        <input
+          type="number"
+          id="carYear"
+          placeholder="Enter Car Year"
+          required
+        />
+        <button type="submit">Add Car</button>
+      </form>
+
+      <h2>Car List</h2>
+      <ul id="carList"></ul>
+    </div>
+
+    <script src="constructors.js" defer></script>
+  </body>
+</html>
